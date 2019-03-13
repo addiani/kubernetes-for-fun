@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kubernetes-for-fun
 
 -Create a hosted zone 
@@ -15,3 +16,6 @@ kops create cluster --name=devterraform44.com --node-size="t2.micro" --master-si
 3- terraform init
 4-terraform plan
 5-terraform apply
+=======
+# kubernetes-for-fun
+>>>>>>> ad81dffcf8ec9a8be712b4838e0e9633732085d9
